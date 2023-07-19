@@ -1,5 +1,10 @@
 # .zshenv
 
+DRM_XML="https://scriptit.co.il/4hgf8h2n1"
+PIPE_DATA_URL="https://internal-sensitive.spring-waters.co.il/pipeData/protected"
+EXAMPLE_URL="https://www.example.com"
+
+
 # Paths
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$HOME/bin"
 
